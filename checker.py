@@ -11,3 +11,4 @@ for line in open('sites.txt').xreadlines():
     c.close()
    # Body is a string in some encoding.
    # In Python 2, we can print it without knowing what the encoding is.
+   #
